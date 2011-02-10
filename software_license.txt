@@ -1,0 +1,1 @@
+NOTICE: By downloading this software you acknowledge and agree that neither the software you are about to download nor the "Route 53" services it may be used with are part of the "Services" provided to you by Dynamic Network Services, Inc. pursuant to your contract with the same and, as such, are not covered by the SLA that is part of said contract
